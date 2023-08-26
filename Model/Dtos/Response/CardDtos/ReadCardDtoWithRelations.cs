@@ -4,7 +4,7 @@ using Vorti_Oh.Model.Enums;
 
 namespace Vorti_Oh.Model.Dtos.Response.CardDtos;
 
-public class ReadDtoWithRelations
+public class ReadCardDtoWithRelations
 {
     public int Id { get; set; }
 
